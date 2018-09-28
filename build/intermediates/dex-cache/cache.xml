@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Quavatel\.android\build-cache\d8a5173f713b1782842d3cf894a68049939b838f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="G:\Stuff\Android\Nano-Degree\PokemonApp\Pokemon-master\app\build\intermediates\pre-dexed\debug\classes_ded01de4162f000e8f1458872af99cefa6ffb288.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Quavatel\.android\build-cache\0cffe26d427b241fe476ec8cb8cfece80a1f168e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="G:\Stuff\Android\Nano-Degree\PokemonApp\Pokemon-master\app\build\intermediates\pre-dexed\debug\classes_44f491d9a007814349150382e5dc7231580bc3bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Quavatel\.android\build-cache\2e42301bd5209225fe8a94247f188990c24f0f82\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="G:\Stuff\Android\Nano-Degree\PokemonApp\Pokemon-master\app\build\intermediates\pre-dexed\debug\classes_45ad1bf7f2fbd823f68199426fae067ca23483ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Quavatel\.android\build-cache\f67ecbf1f64a2566e805fbfda47eaabf1ac171dc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="G:\Stuff\Android\Nano-Degree\PokemonApp\Pokemon-master\app\build\intermediates\pre-dexed\debug\classes_9a2411a59bd0a0c99318b165115ccbff8d5062de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Quavatel\.android\build-cache\1d026209814b045166dc49710bf1854a038279dd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="G:\Stuff\Android\Nano-Degree\PokemonApp\Pokemon-master\app\build\intermediates\pre-dexed\debug\classes_a0d7c888aabe69e3c4c9e16102d7ea9e4240fe9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Quavatel\.android\build-cache\c270acbd225c2a9d80ed7e9723f18011a0a96538\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="G:\Stuff\Android\Nano-Degree\PokemonApp\Pokemon-master\app\build\intermediates\pre-dexed\debug\classes_93572947ec7b467be92da024415b131b6ad1cf4a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Quavatel\.android\build-cache\f76bde6287d85e3f882c27414fda4792371a66e3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="G:\Stuff\Android\Nano-Degree\PokemonApp\Pokemon-master\app\build\intermediates\pre-dexed\debug\classes_ea0c1c84075e6b8523b736b0515867d656d2f816.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Quavatel\.android\build-cache\d39009fc5d330610c3ec1a15bd11aebb6a22f6ec\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="G:\Stuff\Android\Nano-Degree\PokemonApp\Pokemon-master\app\build\intermediates\pre-dexed\debug\classes_0cff94d832e1cb4ed40412917e55d642302eef2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Quavatel\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="G:\Stuff\Android\Nano-Degree\PokemonApp\Pokemon-master\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_68cf032b027b078e47d093754e0dbbc25fbe49d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Quavatel\.android\build-cache\402c54b76e04c038cc924eb966508d216fbcc9fb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="G:\Stuff\Android\Nano-Degree\PokemonApp\Pokemon-master\app\build\intermediates\pre-dexed\debug\classes_4df885becbf26f3a11eb7e5c22cd7cc8dc2e6765.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Quavatel\.android\build-cache\bce96d399f8b42c0a4d9c031a923d0df98913f5e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="G:\Stuff\Android\Nano-Degree\PokemonApp\Pokemon-master\app\build\intermediates\pre-dexed\debug\classes_6495821415561625fb2d7cc18c72545db505551e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Quavatel\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="G:\Stuff\Android\Nano-Degree\PokemonApp\Pokemon-master\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_65441e1f18ede67cfb3581cf67a1b656861e92d6.jar" />
+    </item>
+
+</items>
